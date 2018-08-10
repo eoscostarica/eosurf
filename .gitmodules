@@ -1,0 +1,3 @@
+[submodule "seminyak"]
+	path = seminyak
+	url = https://github.com/comfusion/seminyak.git

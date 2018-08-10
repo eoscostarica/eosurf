@@ -1,0 +1,11 @@
+baseURL = "http://example.org/"
+languageCode = "id"
+title = "Seminyak"
+theme = "seminyak"
+
+[params]
+  theme_color = "#fcfbeb"
+  color_palette = "yellow"
+  background_image_url = "https://source.unsplash.com/ZJqO6ddBpic/"
+  referrer_policy = "same-origin"
+  google_fonts = "Oswald|Raleway"

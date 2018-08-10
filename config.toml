@@ -1,0 +1,4 @@
+baseURL = "http://surfeos.com/"
+languageCode = "en-us"
+title = "EOS Costa Rica Surf Camp"
+theme = "seminyak"

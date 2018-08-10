@@ -1,0 +1,12 @@
+name = "Seminyak"
+license = "WTFPL"
+licenselink = "https://github.com/comfusion/seminyak/blob/master/COPYING"
+description = "Really, really, really ridiculously good looking splash page for Hugo."
+homepage = "https://github.com/comfusion/seminyak"
+tags = ["minimal", "simple", "landing-page", "one-page"]
+features = []
+min_version = "0.16"
+
+[author]
+  name = "Josh Habdas"
+  homepage = "https://habd.as"

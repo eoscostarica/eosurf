@@ -1,0 +1,19 @@
+{{ define "title" -}}
+  {{ .Site.Title }}
+{{- end }}
+{{ define "main" -}}
+  <div class="w-full h-screen max-w-screen-xl mx-auto bg-{{ .Site.Params.color_palette }}-darker bg-cover bg-center bg-no-repeat" {{ with .Site.Params.background_image_url }}style="background-image:url({{ . }})"{{ end }}>
+    <div class="static h-screen bg-transparent text-{{ .Site.Params.color_palette }}-lighter font-raleway lg:text-xl">
+      <div class="absolute h-64 w-full pin-b pin-l bg-{{ .Site.Params.color_palette }}-lighter opacity-15"></div>
+      <div class="absolute h-64 w-full pin-b pin-l p-6">
+        <h1 class="mb-2 font-oswald text-{{ .Site.Params.color_palette }}-lightest">{{ .Title }}</h1>
+        {{ .Content }}
+      </div>
+      {{ with .Params.image_credits }}
+        <div class="absolute w-full pin-b pb-6 p-6 text-right opacity-75 text-base">
+          <p>{{ . | safeHTML }}</p>
+        </div>
+      {{ end }}
+    </div>
+  </div>
+{{- end }}
