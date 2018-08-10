@@ -2,3 +2,19 @@ baseURL = "http://surfeos.com/"
 languageCode = "en-us"
 title = "EOS Costa Rica Surf Camp"
 theme = "seminyak"
+
+
+googleAnalytics = "UA-123-45" # Optional, enable Google Analytics
+
+[params]
+  color_palette = "blue" # Required, adjusts color palette
+  theme_color = "#fffdc3" # Optional, theme-color meta tag
+  referrer_policy = "same-origin" # Optional, referrer policy meta tag
+  background_image_url = "https://source.unsplash.com/ZJqO6ddBpic/" # Optional, background image
+  google_fonts = "Oswald|Raleway" # Passed to Google for Web Font
+
+[params.webmaster]
+  google = "" # Optional, Google verification code
+  bing = "" # Optional, Bing verification code
+  alexa = "" # Optional, Alexa verification code
+  yandex = "" # Optional, Yandex verification code
