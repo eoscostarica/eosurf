@@ -5,7 +5,7 @@ title = "What is EOSurf ?"
 
 +++
 
-A whole new way to discover EOS and **find the optimal balance between WORK and LIFE (or LIFE / EOS)** . Whether you’re a dApp developer, a block producer, an adventurous token holder, or a surfer looking for EOS paradise, you are welcome at SurfEOS. Participate in the EOS ecosystem while staying in a beautiful country, eating, working, surfing, exploring, and networking with other EOS professionals. 
+A whole new way to discover EOS and **find the optimal balance between WORK and LIFE (or LIFE / EOS)** . Whether you’re a dApp developer, a block producer, an adventurous token holder, or a surfer looking for EOS paradise, you are welcome at EOSurf. Participate in the EOS ecosystem while staying in a beautiful country, eating, working, surfing, exploring, and networking with other EOS professionals. 
 
 When you visit with us, you join our family and we strive to have something for everyone. Sunsets on the beach, jungle hikes or hacking 'til dawn while connecting with people from all over the planet.
 
