@@ -3,12 +3,56 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://surfeos.com/post/more/</loc>
+    <lastmod>2015-07-18T14:53:21+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://surfeos.com/post/offer/</loc>
+    <lastmod>2015-07-18T14:08:45+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://surfeos.com/post/included/</loc>
+    <lastmod>2015-07-18T14:53:21+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://surfeos.com/itineraries/itineraries/</loc>
+    <lastmod>2017-09-01T17:39:43+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://surfeos.com/about/about/</loc>
+    <lastmod>2015-07-18T14:08:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://surfeos.com/about/</loc>
+    <lastmod>2015-07-18T14:08:35+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://surfeos.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://surfeos.com/</loc>
+    <lastmod>2015-07-18T14:53:21+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://surfeos.com/itineraries/</loc>
+    <lastmod>2017-09-01T17:39:43+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://surfeos.com/post/</loc>
+    <lastmod>2015-07-18T14:53:21+02:00</lastmod>
     <priority>0</priority>
   </url>
   

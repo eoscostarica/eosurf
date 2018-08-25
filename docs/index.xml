@@ -1,14 +1,63 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>EOS Costa Rica Surf Camp</title>
+    <title>EOSurf</title>
     <link>http://surfeos.com/</link>
-    <description>Recent content on EOS Costa Rica Surf Camp</description>
+    <description>Recent content on EOSurf</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sat, 18 Jul 2015 14:53:21 +0200</lastBuildDate>
     
 	<atom:link href="http://surfeos.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>More than just surfing</title>
+      <link>http://surfeos.com/post/more/</link>
+      <pubDate>Sat, 18 Jul 2015 14:53:21 +0200</pubDate>
+      
+      <guid>http://surfeos.com/post/more/</guid>
+      <description>You take care of your airfare and we take care of everything else. We will arrange for an airport pickup and bring you to the location where you can share or have your own private accommodation. We will have already asked you about your goals and your preferences regarding every detail of your trip and any extra activities like stand up paddle boarding, zip lining or horseback riding. After your stay we’ll give you all your photos, video footage and even a bespoke film about your week with us.</description>
+    </item>
+    
+    <item>
+      <title>What we offer</title>
+      <link>http://surfeos.com/post/offer/</link>
+      <pubDate>Sat, 18 Jul 2015 14:08:45 +0200</pubDate>
+      
+      <guid>http://surfeos.com/post/offer/</guid>
+      <description>Trips are designed so there will be a reliable internet connection and office space available at all times for Dapp Teams, BPs, Token Holders , Investors etc .
+We understand that running a billion dollar blockchain network is a 24&amp;frasl;7 operation but we don&amp;rsquo;t think that should limit your ability to make the world your office. Tap into your inner digital nomad and find your ideal workspace right on the beach or atop a mountain!</description>
+    </item>
+    
+    <item>
+      <title>Preliminary Locations</title>
+      <link>http://surfeos.com/post/included/</link>
+      <pubDate>Sat, 18 Jul 2015 14:53:21 +0200</pubDate>
+      
+      <guid>http://surfeos.com/post/included/</guid>
+      <description> Santa Teresa Guanacaste Jaco Manuel Antonio San Jose La Fortuna Puerto Viejo Tamarindo  </description>
+    </item>
+    
+    <item>
+      <title>Sample Itineraries</title>
+      <link>http://surfeos.com/itineraries/itineraries/</link>
+      <pubDate>Fri, 01 Sep 2017 17:39:43 +0200</pubDate>
+      
+      <guid>http://surfeos.com/itineraries/itineraries/</guid>
+      <description>When you come to a SurfEOS trip we take care of everything from the moment you step off the plane so that you can focus on your team specific goals. Here’s exactly what’s included in your stay…
+ Airport Transfers: We’ll transfer you to/from either Liberia or San Jose airport, or we can collect you from anywhere in Costa Rica, and bring you to the location, on whatever day works for you Accomodations: We recommend 4-5 nights in a shared or private hotels or house rental.</description>
+    </item>
+    
+    <item>
+      <title>What is EOSurf ?</title>
+      <link>http://surfeos.com/about/about/</link>
+      <pubDate>Sat, 18 Jul 2015 14:08:35 +0200</pubDate>
+      
+      <guid>http://surfeos.com/about/about/</guid>
+      <description>A whole new way to discover EOS and find the optimal balance between WORK and LIFE (or LIFE / EOS) . Whether you’re a dApp developer, a block producer, an adventurous token holder, or a surfer looking for EOS paradise, you are welcome at SurfEOS. Participate in the EOS ecosystem while staying in a beautiful country, eating, working, surfing, exploring, and networking with other EOS professionals.
+When you visit with us, you join our family and we strive to have something for everyone.</description>
+    </item>
     
   </channel>
 </rss>

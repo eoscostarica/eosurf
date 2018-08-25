@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pricings on EOSurf</title>
+    <link>http://surfeos.com/pricing/</link>
+    <description>Recent content in Pricings on EOSurf</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Sep 2017 17:39:43 +0200</lastBuildDate>
+    
+	<atom:link href="http://surfeos.com/pricing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sample Itineraries</title>
+      <link>http://surfeos.com/pricing/pricing/</link>
+      <pubDate>Fri, 01 Sep 2017 17:39:43 +0200</pubDate>
+      
+      <guid>http://surfeos.com/pricing/pricing/</guid>
+      <description>When you come to a SurfEOS trip we take care of everything from the moment you step off the plane so that you can focus on your team specific goals. Here’s exactly what’s included in your stay…
+ Airport Transfers: We’ll transfer you to/from either Liberia or San Jose airport, or we can collect you from anywhere in Costa Rica, and bring you to the location, on whatever day works for you Accomodations: We recommend 4-5 nights in a shared or private hotels or house rental.</description>
+    </item>
+    
+  </channel>
+</rss>
