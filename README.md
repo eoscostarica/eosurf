@@ -5,10 +5,10 @@ Hugo website [surfeos.com](http://surfeos.com) to test the idea of organizing gr
 ## EOS BEACH TELEGRAM
 [telegram](https://t.me/eosbeach)
 
-#Welcome to SurfEOS
+# Welcome to SurfEOS
 "Surf a wave. Hike a mountain. Build on EOS"
 
-##What is SurfEOS?
+## What is SurfEOS?
 
 A whole new way to discover EOS and **find the optimal balance between WORK and LIFE (or LIFE / EOS)** . Whether you’re a dApp developer, a block producer, an adventurous token holder, or a surfer looking for EOS paradise, you are welcome at SurfEOS. Participate in the EOS ecosystem while staying in a beautiful country, eating, working, surfing, exploring, and networking with other EOS professionals. 
 
@@ -17,7 +17,7 @@ When you visit with us, you join our family and we strive to have something for 
 Discover your true potential while learning new skills and refining your talents. Here you can develop your dApp or bring your team for some EOS networking. The idea is to leave inspired and energized to keep charging towards your goals.
 
 
-##*Launching in 2019*
+## *Launching in 2019*
 Sign up here for updates
 
 ###What we offer
@@ -38,15 +38,15 @@ Trips can be customized to match specific goals for each team. Some examples inc
  - Learning Sessions / Team Training
  - Create content / media coverage / film + photography
 
-####More Than Just Surfing
+#### More Than Just Surfing
 
 You take care of your airfare and we take care of everything else. We will arrange for an airport pickup and bring you to the location where you can share or have your own private accomodation. We will have already asked you about your goals and your preferences regarding every detail of your trip and any extra activities like stand up paddle boarding, zip lining or horseback riding. After your stay we’ll give you all your photos, video footage and even a bespoke film about your week with us. You can check our availability here and email us to book your stay.
 
-####Prices: Check our pricing
-####Availability: View our availability
-####Get in touch: Contact us
+#### Prices: Check our pricing
+#### Availability: View our availability
+#### Get in touch: Contact us
 
-####Preliminary Locations
+#### Preliminary Locations
  - Santa Teresa, Guanacaste
  - Jaco
  - Manuel Antonio
@@ -55,9 +55,9 @@ You take care of your airfare and we take care of everything else. We will arran
  - Puerto Viejo
  - Tamarindo
 
-###Suggested Trip Length: 5-6 days
+### Suggested Trip Length: 5-6 days
 
-#####*Sample Itinerary* : Costa Rica Pacific Coast
+##### *Sample Itinerary* : Costa Rica Pacific Coast
 Thursday - Day 1 - Arrive in San Jose, Travel to Manuel Antonio
 
 Friday - Day 2 - Manuel antonio beach day
@@ -70,7 +70,7 @@ Monday Day 5-  Santa Teresa - Travel to San Jose
  
 Tuesday Day 6 - Depart.
 
-#####*Sample Itinerary* : Costa Rica Caribbean Coast
+##### *Sample Itinerary* : Costa Rica Caribbean Coast
 Thursday - Day 1 - Arrive in San Jose, Travel to Puerto Viejo
 
 Friday - Day 2 - Puerto Viejo beach day ( kayaking / surfing / paddle boards / snorkeling) 
@@ -83,7 +83,7 @@ Monday Day 5-  Arenal - Travel to San Jose  (San Jose de la Montaña)?
 
 Tuesday Day 6 - Depart.
 
-####Activities
+#### Activities
 
 - Surf Lessons
 - Mountain Biking
@@ -104,7 +104,7 @@ Tuesday Day 6 - Depart.
 - Rock Climbing
 - Night Life
 
-####What’s Included?
+#### What’s Included?
 
 When you come to a SurfEOS trip we take care of everything from the moment you step off the plane so that you can focus on your team specific goals. Here’s exactly what’s included in your stay…
 
@@ -117,12 +117,12 @@ When you come to a SurfEOS trip we take care of everything from the moment you s
 - **Restaurant /  Bar Recommendations**
 - **Tours and Activities** 
 
-####…What’s Not Included?
+#### …What’s Not Included?
 Your flights to Costa Rica are not included but once you touch the ground in Liberia or San Jose , we’ve got you covered. Make sure to bring your own laptop and computer equipment as that will not be provided
 
-###Stay and Code
+### Stay and Code
 If you love Costa Rica and would like share your coding and developer knowledge, you can choose to stay longer and have the opportunity to offer your talents to the local community and stay longer in exchange.
 
-###Upcoming Events
+### Upcoming Events
 Tropical Blockchain Summit: January 2019
 
