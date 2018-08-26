@@ -20,7 +20,7 @@ Discover your true potential while learning new skills and refining your talents
 ## *Launching in 2019*
 Sign up here for updates
 
-###What we offer
+### What we offer
 Trips are designed so there will be a reliable internet connection and office space available at all times for Dapp Teams, BPs, Token Holders , Investors etc . 
 
 We understand that running a billion dollar blockchain network is a 24/7 operation but we don't think that should limit your ability to make the world your office. Tap into your inner digital nomad and find your ideal workspace right on the beach or atop a mountain!
