@@ -1,24 +1,17 @@
-# EOS BEACH TRIPS WEBSITE - EOS COSTA RICA
+# EOSurf WEBSITE  
+*"Surf a wave. Hike a mountain. Build on EOS"*
 
 Hugo website [surfeos.com](http://surfeos.com) to test the idea of organizing group trips for EOS community members / teams  to enjoy a long weekend / working vacation in Costa Rica. 
 
 ## EOS BEACH TELEGRAM
-[telegram](https://t.me/eosbeach)
-
-# Welcome to SurfEOS
-"Surf a wave. Hike a mountain. Build on EOS"
+Join the conversatin on our telegram channel [telegram](https://t.me/eosbeach)
 
 ## What is SurfEOS?
-
 A whole new way to discover EOS and **find the optimal balance between WORK and LIFE (or LIFE / EOS)** . Whether you’re a dApp developer, a block producer, an adventurous token holder, or a surfer looking for EOS paradise, you are welcome at SurfEOS. Participate in the EOS ecosystem while staying in a beautiful country, eating, working, surfing, exploring, and networking with other EOS professionals. 
 
 When you visit with us, you join our family and we strive to have something for everyone. Sunsets on the beach, jungle hikes or hacking til dawn while connecting with people from all over the planet.
 
 Discover your true potential while learning new skills and refining your talents. Here you can develop your dApp or bring your team for some EOS networking. The idea is to leave inspired and energized to keep charging towards your goals.
-
-
-## *Launching in 2019*
-Sign up here for updates
 
 ### What we offer
 Trips are designed so there will be a reliable internet connection and office space available at all times for Dapp Teams, BPs, Token Holders , Investors etc . 
@@ -29,22 +22,18 @@ All group activities are optional and will take up half the day so there is alwa
 
 Trips can be customized to match specific goals for each team. Some examples include:
 
- - Costa Rica Crypto Interview
- - SurfEOS podcast appearance (still in beta)
- - Knowledge sharing and networking
+ - [Costa Rica Crypto Interview](https://www.youtube.com/channel/UCHPQbgCohxxg49zYrAFu_9Q/featured)
+ - Create content / media coverage / film + photography
+ - [Meetups](https://www.meetup.com/EOS-Costa-Rica/) and networking
  - Hackathons
  - Development sprints (co working space available)
- - General Wellness (exercise, healthy food, relaxation)
  - Learning Sessions / Team Training
- - Create content / media coverage / film + photography
+ - General Wellness (exercise, healthy food, relaxation)
+
 
 #### More Than Just Surfing
 
 You take care of your airfare and we take care of everything else. We will arrange for an airport pickup and bring you to the location where you can share or have your own private accomodation. We will have already asked you about your goals and your preferences regarding every detail of your trip and any extra activities like stand up paddle boarding, zip lining or horseback riding. After your stay we’ll give you all your photos, video footage and even a bespoke film about your week with us. You can check our availability here and email us to book your stay.
-
-#### Prices: Check our pricing
-#### Availability: View our availability
-#### Get in touch: Contact us
 
 #### Preliminary Locations
  - Santa Teresa, Guanacaste
@@ -59,28 +48,18 @@ You take care of your airfare and we take care of everything else. We will arran
 
 ##### *Sample Itinerary* : Costa Rica Pacific Coast
 Thursday - Day 1 - Arrive in San Jose, Travel to Manuel Antonio
-
 Friday - Day 2 - Manuel antonio beach day
-
 Saturday - Day 3 - Travel to Santa Teresa
-
 Sunday - Day 4 - Santa Teresa Surf lessons
-
 Monday Day 5-  Santa Teresa - Travel to San Jose
- 
 Tuesday Day 6 - Depart.
 
 ##### *Sample Itinerary* : Costa Rica Caribbean Coast
 Thursday - Day 1 - Arrive in San Jose, Travel to Puerto Viejo
-
 Friday - Day 2 - Puerto Viejo beach day ( kayaking / surfing / paddle boards / snorkeling) 
-
 Saturday - Day 3 - Travel to Arenal  
-
 Sunday - Day 4 - Arenal Hot Springs 
-
 Monday Day 5-  Arenal - Travel to San Jose  (San Jose de la Montaña)?
-
 Tuesday Day 6 - Depart.
 
 #### Activities
@@ -122,7 +101,3 @@ Your flights to Costa Rica are not included but once you touch the ground in Lib
 
 ### Stay and Code
 If you love Costa Rica and would like share your coding and developer knowledge, you can choose to stay longer and have the opportunity to offer your talents to the local community and stay longer in exchange.
-
-### Upcoming Events
-Tropical Blockchain Summit: January 2019
-
