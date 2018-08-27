@@ -1,4 +1,4 @@
-baseURL = "http://surfeos.com/"
+baseURL = "http://eosurf.com/"
 languageCode = "en-us"
 title = "EOSurf"
 theme = "landing-page-hugo"
