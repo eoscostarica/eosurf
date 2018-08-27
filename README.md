@@ -1,7 +1,7 @@
 # EOSurf WEBSITE  
 *"Surf a wave. Hike a mountain. Build on EOS"*
 
-Hugo website [surfeos.com](http://surfeos.com) to test the idea of organizing group trips for EOS community members / teams  to enjoy a long weekend / working vacation in Costa Rica. 
+Hugo website [eosurf.com](http://eosurf.com) to test the idea of organizing group trips for EOS community members / teams  to enjoy a long weekend / working vacation in Costa Rica. 
 
 ## EOS BEACH TELEGRAM
 Join the conversatin on our telegram channel [telegram](https://t.me/eosbeach)
