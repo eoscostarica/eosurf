@@ -1,5 +1,6 @@
 baseURL = "http://eosurf.com/"
 languageCode = "en-us"
+html_title = "Group trips for EOS enthusiasts traveling to Costa Rica"
 title = "EOSurf"
 theme = "landing-page-hugo"
 publishDir = "docs"
