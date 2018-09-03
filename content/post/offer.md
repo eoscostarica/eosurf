@@ -6,10 +6,10 @@ weight = 2
 img = "services/campfire.jpg"
 +++
 
- - **EOS for Executives**: A retreat tailored for non-technical audiences looking to understand EOS and blockchain technology and how it can be applied in a business setting.
- - **EOS for Developers**: A retreat designed for technical audiences looking to become expert EOS developers. A minimum of programming experience is highly recommended.
- - **EOS for Educators**: A retreat designed to train technical and non-technical talent to become the next generation of EOS educators. 
+When you come to a EOSurf trip we plan everything from the moment you step off the plane so that you can focus on your specific goals. 
 
-Trips are designed so there will be a reliable internet connection and office space available at all times for teams to be able to continue their work during the retreat. We understand that running a billion dollar blockchain network is a 24/7 operation so connectivity and work environments are priorities during the trips. 
+- __Airport Transfers and Transportation__
 
-All group activities are optional and will take up half the day so there is always plenty of time to catch up with telegram, update to the latest release of nodeos, fix that bug in your code and all that fun stuff that EOS teams do.
+- __Accommodations:__ hotels or house rental
+
+- __Awesome activities:__ Surf a wave, chill on the beach, hike in the jungle or simply get lost in telegram on a hammock. No matter what adventure you choose, we want the experiences to blend fun and work to transform the way you travel. 

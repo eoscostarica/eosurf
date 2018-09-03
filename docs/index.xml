@@ -17,7 +17,9 @@
       <pubDate>Sat, 18 Jul 2015 14:53:21 +0200</pubDate>
       
       <guid>http://eosurf.com/post/more/</guid>
-      <description>You take care of your airfare and we take care of everything else. We will arrange for an airport pickup and bring you to the location where you can share or have your own private accommodation. We will have already asked you about your goals and your preferences regarding every detail of your trip and any extra activities like stand up paddle boarding, zip lining or horseback riding. After your stay we’ll give you all your photos, video footage and even a bespoke film about your week with us.</description>
+      <description>At EOSurf you can look forward to sunsets on the beach, jungle hikes or hacking til dawn while connecting with people from all over the planet.
+Discover your true potential while learning new skills and refining your talents. Here you can develop your dApp or bring your team for some EOS team building or networking. The idea is to leave inspired and energized to keep charging towards your goals.
+Trips can be designed for both technical and non-technical audiences looking to understand EOS and blockchain technology and how it can be applied in a business setting or for expert EOS developers.</description>
     </item>
     
     <item>
@@ -26,28 +28,26 @@
       <pubDate>Sat, 18 Jul 2015 14:08:45 +0200</pubDate>
       
       <guid>http://eosurf.com/post/offer/</guid>
-      <description>Trips are designed so there will be a reliable internet connection and office space available at all times for Dapp Teams, BPs, Token Holders , Investors etc .
-We understand that running a billion dollar blockchain network is a 24&amp;frasl;7 operation but we don&amp;rsquo;t think that should limit your ability to make the world your office. Tap into your inner digital nomad, finish your work and hit the beach or hike in the cloud forest!</description>
+      <description>When you come to a EOSurf trip we plan everything from the moment you step off the plane so that you can focus on your specific goals.
+ Airport Transfers and Transportation
+ Accommodations: hotels or house rental
+ Awesome activities: Surf a wave, chill on the beach, hike in the jungle or simply get lost in telegram on a hammock. No matter what adventure you choose, we want the experiences to blend fun and work to transform the way you travel.</description>
     </item>
     
     <item>
-      <title>Trip Activities</title>
+      <title>Custom Trip Goals</title>
       <link>http://eosurf.com/post/included/</link>
       <pubDate>Sat, 18 Jul 2015 14:53:21 +0200</pubDate>
       
       <guid>http://eosurf.com/post/included/</guid>
-      <description>Trips can be customized to match specific goals for each team. Some examples include:
- Costa Rica Crypto Interview Knowledge sharing and networking Hackathons Development sprints (co working space available) General Wellness (exercise, healthy food, relaxation) Learning Sessions / Team Training Create content / media coverage / film + photography  </description>
-    </item>
-    
-    <item>
-      <title>Sample Itineraries</title>
-      <link>http://eosurf.com/itineraries/itineraries/</link>
-      <pubDate>Fri, 01 Sep 2017 17:39:43 +0200</pubDate>
-      
-      <guid>http://eosurf.com/itineraries/itineraries/</guid>
-      <description>When you come to a EOSurf trip we take care of everything from the moment you step off the plane so that you can focus on your team specific goals. Here’s exactly what’s included in your stay…
- Airport Transfers: We’ll transfer you to/from either Liberia or San Jose airport, or we can collect you from anywhere in Costa Rica, and bring you to the location, on whatever day works for you Accomodations: We recommend 4-5 nights in a shared or private hotels or house rental.</description>
+      <description>Trips can be customized to match specific goals. Some examples include:
+ Development sprints
+ Content creation through media coverage / film + photography
+ Meetups and networking
+ Costa Rica Crypto Interview
+ Learning Sessions / Team Training
+ Recharge and focus on general wellness (exercise, healthy food, relaxation)
+  </description>
     </item>
     
     <item>
@@ -56,8 +56,18 @@ We understand that running a billion dollar blockchain network is a 24&amp;frasl
       <pubDate>Sat, 18 Jul 2015 14:08:35 +0200</pubDate>
       
       <guid>http://eosurf.com/about/about/</guid>
-      <description>A whole new way to discover EOS and find the optimal balance between WORK and LIFE (or LIFE / EOS) . Whether you’re a dApp developer, a block producer, an adventurous token holder, or a surfer looking for EOS paradise, you are welcome at EOSurf. Participate in the EOS ecosystem while staying in a beautiful country, eating, working, surfing, exploring, and networking with other EOS professionals.
-When you visit with us, you join our family and we strive to have something for everyone.</description>
+      <description>A whole new way to discover EOS and find the optimal balance between WORK and LIFE. Whether you’re a dApp developer, a block producer team, an adventurous token holder, or an executive looking to learn about EOS, you are welcome to join us. EOSurf allows you to participate in the EOS ecosystem while staying in a beautiful country, working, staying active and networking with other EOS professionals.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://eosurf.com/itineraries/itineraries/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://eosurf.com/itineraries/itineraries/</guid>
+      <description>s&amp;mdash; title: &amp;ldquo;Sample Itineraries&amp;rdquo; date: 2017-09-01T17:39:43+02:00
+draft: false When you come to a EOSurf trip we take care of everything from the moment you step off the plane so that you can focus on your team specific goals. Here’s exactly what’s included in your stay…
+ Airport Transfers: We’ll transfer you to/from either Liberia or San Jose airport, or we can collect you from anywhere in Costa Rica, and bring you to the location, on whatever day works for you Accommodations: We recommend 4-5 nights in a shared or private hotels or house rental.</description>
     </item>
     
   </channel>

@@ -1,17 +1,21 @@
 +++
 date = "2015-07-18T14:53:21+02:00"
 draft = false
-title = "Trip Activities"
+title = "Custom Trip Goals"
 img = "services/hot-springs.jpg"
 weight = 3
 +++
 
-Trips can be customized to match specific goals for each team. Some examples include:
+Trips can be customized to match specific goals. Some examples include:
 
- - Costa Rica Crypto Interview
- - Knowledge sharing and networking
- - Hackathons
- - Development sprints (co working space available)
- - General Wellness (exercise, healthy food, relaxation)
- - Learning Sessions / Team Training
- - Create content / media coverage / film + photography
+- Development sprints 
+
+- Content creation through media coverage / film + photography
+
+- [Meetups](https://www.meetup.com/EOS-Costa-Rica/) and networking
+
+- [Costa Rica Crypto Interview](https://www.youtube.com/channel/UCHPQbgCohxxg49zYrAFu_9Q/featured) 
+
+- Learning Sessions / Team Training
+
+- Recharge and focus on general wellness (exercise, healthy food, relaxation)
