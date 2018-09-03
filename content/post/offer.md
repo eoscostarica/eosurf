@@ -13,14 +13,3 @@ img = "services/campfire.jpg"
 Trips are designed so there will be a reliable internet connection and office space available at all times for teams to be able to continue their work during the retreat. We understand that running a billion dollar blockchain network is a 24/7 operation so connectivity and work environments are priorities during the trips. 
 
 All group activities are optional and will take up half the day so there is always plenty of time to catch up with telegram, update to the latest release of nodeos, fix that bug in your code and all that fun stuff that EOS teams do.
-
-Trips can also be customized to match specific goals for each team. Some examples include:
-
-- Hackathons
-- Development sprints 
-- Content creation through media coverage / film + photography
-- [Meetups](https://www.meetup.com/EOS-Costa-Rica/) and networking
-- [Costa Rica Crypto Interview](https://www.youtube.com/channel/UCHPQbgCohxxg49zYrAFu_9Q/featured) 
-- Learning Sessions / Team Training
-- Recharge and focus on general wellness (exercise, healthy food, relaxation)
-
