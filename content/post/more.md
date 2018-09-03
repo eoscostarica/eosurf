@@ -6,4 +6,12 @@ img = "services/arenal.jpg"
 weight = 1
 +++
 
-You take care of your airfare and we take care of everything else. We will arrange for an airport pickup and bring you to the location where you can share or have your own private accommodation. We will have already asked you about your goals and your preferences regarding every detail of your trip and any extra activities like stand up paddle boarding, zip lining or horseback riding. After your stay we’ll give you all your photos, video footage and even a bespoke film about your week with us. You can check our availability here and email us to book your stay.
+When you come to a EOSurf trip we plan everything from the moment you step off the plane so that you can focus on your specific goals. Here’s exactly what we can offer in your stay…
+
+- **Airport Transfers:** We’ll transfer you to/from either Liberia or San Jose airport, or we can collect you from anywhere in Costa Rica, and bring you to the location, on whatever day works for you
+- **Accomodations:** We recommend 4-5 nights in a shared or private hotels or house rental. You can pick from a boutique hotel, co-living space or a hostel. Hammocks and camping tents also available for the more adventurous. We can offer all types of accommodation to fit the needs of every traveler and their teams. 
+- **All your activities:** Surf a wave, chill on the beach, hike in the jungle or simply get lost in telegram on a hammock. No matter what adventure you choose, we want the experiences to blend fun and work to transform the way you travel. 
+- **Co-Working Space**
+- **Internet availability** 
+- **Restaurant/ Bar Recommendations**
+- **Tours and Activities** 
