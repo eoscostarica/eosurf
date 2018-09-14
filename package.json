@@ -1,0 +1,23 @@
+{
+  "name": "eosurf.com",
+  "version": "0.0.1",
+  "description": "Group trips for EOS community members",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eoscostarica/eosurf.git"
+  },
+  "author": "EOS Costa Rica (https://eoscostarica.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eoscostarica/eosurf.git/issues"
+  },
+  "homepage": "https://github.com/eoscostarica/eosurf.git#readme",
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
