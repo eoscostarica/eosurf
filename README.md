@@ -8,7 +8,6 @@ Media Partner [Costa Rica Crypto](https://www.youtube.com/channel/UCHPQbgCohxxg4
 ## EOS BEACH TELEGRAM
 Join the conversation on our telegram channel [telegram](https://t.me/eosbeach)
 
-Sign up for email updates here
 
 ## What is EOSurf?
 Our mission is to develop a whole new way to discover EOS and **find the optimal balance between WORK and LIFE**. Whether you’re a dApp developer, a block producer team, an adventurous token holder, or an executive looking to learn about EOS, you are welcome to join us. EOSurf allows you to participate in the EOS ecosystem while staying in a beautiful country, working, staying active and networking with other EOS professionals. 
