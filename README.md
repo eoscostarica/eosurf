@@ -8,10 +8,9 @@ Media Partner [Costa Rica Crypto](https://www.youtube.com/channel/UCHPQbgCohxxg4
 ## EOS BEACH TELEGRAM
 Join the conversation on our telegram channel [telegram](https://t.me/eosbeach)
 
-Sign up for email updates here
 
 ## What is EOSurf?
-Our mission is to develop a whole new way to discover EOS and **find the optimal balance between WORK and LIFE**. Whether you’re a dApp developer, a block producer team, an adventurous token holder, or an executive looking to learn about EOS, you are welcome to join us. EOSurf allows you to participate in the EOS ecosystem while staying in a beautiful country, working, staying active and networking with other EOS professionals. 
+A whole new way to discover EOS and **find the optimal balance between WORK and LIFE**. Whether you’re a dApp developer, a block producer team, an adventurous token holder, or an executive looking to learn about EOS, you are welcome to join us. EOSurf allows you to participate in the EOS ecosystem while staying in a beautiful country, working, staying active and networking with other EOS professionals. 
 
 At EOSurf you can look forward to sunsets on the beach, jungle hikes or hacking til dawn while connecting with people from all over the planet.
 
@@ -19,11 +18,11 @@ Discover your true potential while learning new skills and refining your talents
 
 ### What we offer
 
- - **EOS for Executives**: A retreat designed for non-technical audiences looking to understand EOS and blockchain technology and how it can be applied in a business setting.
- - **EOS for Developers**: A retreat designed for technical audiences looking to become expert EOS developers. A minimum of programming experience is highly recommended.
- - **EOS for Educators**: A retreat designed to train technical and non-technical talent to become the next generation of EOS educators. 
+ - **EOS for Executives**: A trip designed for non-technical audiences looking to understand EOS and blockchain technology and how it can be applied in a business setting.
+ - **EOS for Developers**: A trip designed for technical audiences looking to become expert EOS developers. Some programming experience is requiered by it can be tailored by levels. 
+ - **EOS for Educators**: A trip designed to train technical and non-technical advocates to become the next generation of EOS educators. 
 
-Trips are designed so there will be a reliable internet connection and office space available at all times for teams to be able to continue their work during the retreat. We understand that running a billion dollar blockchain network is a 24/7 operation so connectivity and work environments are priorities during the trips. 
+Trips are designed so there will be a reliable internet connection and office space available at all times for teams to continue their work during the trip. We understand that running a billion dollar blockchain network is a 24/7 operation so connectivity and work environments are priorities. 
 
 All group activities are optional and will take up half the day so there is always plenty of time to catch up with telegram, update to the latest release of nodeos, fix that bug in your code and all that fun stuff that EOS teams do.
 
